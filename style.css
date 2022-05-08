@@ -6,12 +6,12 @@
 }
 :root {
   --primary-color: #8b0000;
-  --brand-beige: hsl(39, 100%, 97%);
-  font-size: 62.5%;
-  --brand-light: hsl(148, 23%, 89%);
-  --backgroundlight: hsl(180, 14%, 97%);
+  --brand-beige: white;
+  --brand-light: hsl(0, 86%, 59%);
+  --backgroundlight:  hsl(0, 69%, 97%);
   --nav-height: 7.2rem;
   --brand-hover: #5f0000;
+  font-size: 62.5%;
 }
 .wrapper {
   width: 37.5rem;
